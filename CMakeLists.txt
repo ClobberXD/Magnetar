@@ -20,7 +20,7 @@ include_directories(
 
 add_executable(Magnetar
 
-	src/application.cpp
+	src/main.cpp
 	src/shader.cpp
 	src/texture.cpp
 
