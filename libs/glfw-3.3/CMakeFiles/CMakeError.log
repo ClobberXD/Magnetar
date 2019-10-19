@@ -1,0 +1,525 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cb9b9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cb9b9.dir/build.make CMakeFiles/cmTC_cb9b9.dir/build
+make[1]: Entering directory '/home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cb9b9.dir/testCCompiler.c.o
+/usr/local/bin/cc    -o CMakeFiles/cmTC_cb9b9.dir/testCCompiler.c.o   -c /home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp/testCCompiler.c
+ccache: error: Recursive invocation (the name of the ccache binary must be "ccache")
+CMakeFiles/cmTC_cb9b9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_cb9b9.dir/testCCompiler.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_cb9b9.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory '/home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cb9b9/fast' failed
+make: *** [cmTC_cb9b9/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8ce8e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8ce8e.dir/build.make CMakeFiles/cmTC_8ce8e.dir/build
+make[1]: Entering directory '/home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8ce8e.dir/CheckSymbolExists.c.o
+/usr/local/bin/cc    -o CMakeFiles/cmTC_8ce8e.dir/CheckSymbolExists.c.o   -c /home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_8ce8e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8ce8e.dir/link.txt --verbose=1
+/usr/local/bin/cc      -rdynamic CMakeFiles/cmTC_8ce8e.dir/CheckSymbolExists.c.o  -o cmTC_8ce8e 
+CMakeFiles/cmTC_8ce8e.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_8ce8e.dir/build.make:97: recipe for target 'cmTC_8ce8e' failed
+make[1]: *** [cmTC_8ce8e] Error 1
+make[1]: Leaving directory '/home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8ce8e/fast' failed
+make: *** [cmTC_8ce8e/fast] Error 2
+
+File /home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3ae2f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3ae2f.dir/build.make CMakeFiles/cmTC_3ae2f.dir/build
+make[1]: Entering directory '/home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3ae2f.dir/CheckFunctionExists.c.o
+/usr/local/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_3ae2f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_3ae2f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3ae2f.dir/link.txt --verbose=1
+/usr/local/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_3ae2f.dir/CheckFunctionExists.c.o  -o cmTC_3ae2f -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_3ae2f.dir/build.make:97: recipe for target 'cmTC_3ae2f' failed
+make[1]: *** [cmTC_3ae2f] Error 1
+make[1]: Leaving directory '/home/anand/dev/libs/glfw-3.3/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3ae2f/fast' failed
+make: *** [cmTC_3ae2f/fast] Error 2
+
+
