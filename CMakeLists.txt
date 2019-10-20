@@ -18,6 +18,8 @@ include_directories(
 	libs/glad/include
 )
 
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+
 add_executable(Magnetar
 
 	src/main.cpp
