@@ -1,4 +1,4 @@
-#include "log.h"
+#include "magnetar.h"
 
 int main()
 {
