@@ -8,8 +8,8 @@ namespace Magnetar
 
 	void Logger::init()
 	{
-		spdlog::set_pattern("%^[%T] %n: %v%$");
-		sLogger = spdlog::stdout_color_mt("HAZEL");
+		spdlog::set_pattern("%^[%T] %n | %v%$");
+		sLogger = spdlog::stdout_color_mt("MAGNETAR");
 		sLogger->set_level(spdlog::level::trace);
 
 		sLogger->info("Magnetar::Logger initialised!");
