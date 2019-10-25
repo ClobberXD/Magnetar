@@ -12,6 +12,6 @@ namespace Magnetar
 		sLogger = spdlog::stdout_color_mt("MAGNETAR");
 		sLogger->set_level(spdlog::level::trace);
 
-		sLogger->info("Magnetar::Logger initialised!");
+		sLogger->trace("Magnetar::Logger initialised!");
 	}
 }

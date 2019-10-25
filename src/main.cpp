@@ -2,9 +2,9 @@
 
 int main()
 {
-	Magnetar::Logger::init();
-	LOG_ERROR("Starting up...");
+	if (!Magnetar::Application::init())
+		return 1;
 
-	LOG_TRACE("Shutting down...");
+	Magnetar::Application::shutdown();
 	return 0;
 }
