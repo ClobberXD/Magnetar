@@ -24,8 +24,9 @@ add_executable(Magnetar
 
 	src/main.cpp
 	src/log.cpp
-	src/shader.cpp
-	src/texture.cpp
+
+	src/renderer/shader.cpp
+	src/renderer/texture.cpp
 
 	src/util/profiler.cpp
 
