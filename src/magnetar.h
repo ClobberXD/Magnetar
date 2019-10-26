@@ -1,6 +1,6 @@
 // Master include file, to include all Magnetar files
 
-#include "application.h"
+#include "magnetar/application.h"
 
 // Miscellaneous headers
-#include "log.h"
+#include "magnetar/log.h"

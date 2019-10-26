@@ -23,11 +23,12 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 add_executable(Magnetar
 
 	src/main.cpp
-	src/application.cpp
-	src/log.cpp
 
-	src/renderer/shader.cpp
-	src/renderer/texture.cpp
+	src/magnetar/application.cpp
+	src/magnetar/log.cpp
+
+	src/magnetar/renderer/shader.cpp
+	src/magnetar/renderer/texture.cpp
 
 	src/util/profiler.cpp
 
