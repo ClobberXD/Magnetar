@@ -18,9 +18,7 @@ include_directories(
 	libs/glad/include
 )
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
-
-add_executable(Magnetar
+add_executable(${PROJECT_NAME}
 
 	src/main.cpp
 
@@ -43,4 +41,4 @@ add_executable(Magnetar
 	libs/imgui/imgui.cpp
 )
 
-target_link_libraries(Magnetar ${OPENGL_gl_LIBRARY} glfw)
+target_link_libraries(${PROJECT_NAME} ${OPENGL_gl_LIBRARY} glfw)
